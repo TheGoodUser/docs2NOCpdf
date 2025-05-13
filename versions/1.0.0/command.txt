@@ -1,0 +1,1 @@
+pyinstaller --onefile --name Excel2PDF --hidden-import=pandas --hidden-import=docxedit --hidden-import=openpyxl --add-data "sample.docx;." main.py

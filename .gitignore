@@ -1,0 +1,12 @@
+/build
+/myVirtualEnvion
+/outputs
+/__pycache__
+
+# The sample file
+emp-details.xlsx 
+
+sample.docs
+
+*.spec
+*.exe
