@@ -2,6 +2,7 @@
 /myVirtualEnvion
 /outputs
 /__pycache__
+/versions
 
 # The sample file
 emp-details.xlsx 
